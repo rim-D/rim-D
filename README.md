@@ -7,7 +7,8 @@ I'm MiRim Park, a growing developer. 🌱 <br>
 <p align="center">사용 언어</p>
 <p align="center">==============================</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JAVA SQL 11g-1e5fce"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-1e5fce"/>&nbsp
+  <img src="https://img.shields.io/badge/-ORACLE SQL 11g-ceaf52"/>&nbsp
   <img src="https://img.shields.io/badge/-JSP/SERVLET-6f17d3"/>&nbsp
   <img src="https://img.shields.io/badge/-Linux-62c99c"/>&nbsp
   <img src="https://img.shields.io/badge/-JSP/SERVLET-ff4466"/>&nbsp<br>
