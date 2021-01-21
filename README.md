@@ -1,4 +1,4 @@
-<h1 align="center"> (&nbsp&nbspfunction&nbsp&nbsprepeat(&nbsp&nbsp)&nbsp{&nbsp&nbspcode(&nbsp&nbsp);&nbsp&nbsp})(&nbsp&nbsp);👋 </h1>
+<h1 align="center"> Hello👋 </h1>
 <p align="center">
 I'm MiRim Park, a growing developer. 🌱 <br>
 </p>
