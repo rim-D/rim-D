@@ -9,7 +9,7 @@ I'm MiRim Park, a growing developer. 🌱 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-1e5fce"/>&nbsp
   <img src="https://img.shields.io/badge/-ORACLE SQL-ceaf52"/>&nbsp
-  <img src="https://img.shields.io/badge/-JSP/SERVLET-6f17d3"/>&nbsp</br>
+  <img src="https://img.shields.io/badge/-JSP/SERVLET-6f17d3"/>&nbsp
   <img src="https://img.shields.io/badge/-JSTL-694fb5"/>&nbsp<br>
   <img src="https://img.shields.io/badge/-HTML-ff8244"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-ff8377"/>&nbsp
