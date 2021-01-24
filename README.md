@@ -15,6 +15,11 @@ I'm MiRim Park, a growing developer. 🌱 <br>
   <img src="https://img.shields.io/badge/-HTML-ff8244"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-ff8377"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-ff77a9"/>&nbsp
+  <img src="https://img.shields.io/badge/-JQUERY-192254"/>&nbsp
+  <img src="https://img.shields.io/badge/-Angular-e87968"/>&nbsp
+  <img src="https://img.shields.io/badge/-VueJS-d9e868"/>&nbsp
+  <img src="https://img.shields.io/badge/-ReactJS-d9e868"/>&nbsp
+  <img src="https://img.shields.io/badge/-JSTL-694fb5"/>&nbsp<br>
 </p>
 <p align="center">==============================</p>
 <p align="center">개발 환경</p>
@@ -26,10 +31,6 @@ I'm MiRim Park, a growing developer. 🌱 <br>
   <img src="https://img.shields.io/badge/-Eclipse-522896"/>&nbsp
   <img src="https://img.shields.io/badge/-STS-9472c9"/>&nbsp<br>
   <img src="https://img.shields.io/badge/-VSCODE-7298c9"/>&nbsp
-  <img src="https://img.shields.io/badge/-JQUERY-192254"/>&nbsp
-  <img src="https://img.shields.io/badge/-Angular-e87968"/>&nbsp
-  <img src="https://img.shields.io/badge/-ReactJS-d9e868"/>&nbsp
-  <img src="https://img.shields.io/badge/-JSTL-694fb5"/>&nbsp<br>
   <img src="https://img.shields.io/badge/-PHOTOSHOP-e0629f"/>&nbsp
   <img src="https://img.shields.io/badge/-ILLUSTRATOR-626de0"/>&nbsp<br>
   <img src="https://img.shields.io/badge/-GIT-000000"/>
